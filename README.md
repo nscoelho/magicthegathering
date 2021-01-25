@@ -1,1 +1,1 @@
-Visit this page at https://magicthegatheringtcg.herokuapp.com/
+Visit this page at https://www.magicthegatheringtcg.com/
